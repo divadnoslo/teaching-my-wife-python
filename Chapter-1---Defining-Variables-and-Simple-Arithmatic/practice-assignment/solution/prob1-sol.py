@@ -12,7 +12,7 @@ print(f"Part A: y = {y}")
 
 # Print Type of y
 print(f"Part A: type(y) = {type(y)}")
-print("\n\n")
+print("\n")
 
 #------------------------- Part B ----------------------
 # Set the Value of x
